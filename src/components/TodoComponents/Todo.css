@@ -1,0 +1,33 @@
+.header {
+    display: flex;
+    justify-content: center;
+    border: 2px red solid
+}
+.App {
+   background-color: royalblue;
+   display: flex;
+   justify-content: center;
+}
+.toDoList {
+    color: orange;
+}
+.clear-btn {
+background-color: #7b38d8;
+border-radius: .5rem;
+border: 4px double #cccccc;
+color: orange;
+text-align: center;
+font-size: 2rem;
+padding: 5px;
+width: 7rem;
+cursor: pointer;
+margin: 5px;
+}
+.add-btn {
+    background-color:#7b38d8 ;
+    border-radius: .5rem;
+    border: 4px double #cccccc;
+    color: orange;
+    text-align: center;
+    cursor: pointer;
+}
