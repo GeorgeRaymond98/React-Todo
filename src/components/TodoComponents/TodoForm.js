@@ -27,7 +27,7 @@ class TodoForm extends Component {
                 type="text"
                 name="todo"
                 />
-                <button>Add</button>
+                <button className="add-btn">Add</button>
             </form>
         );
     }

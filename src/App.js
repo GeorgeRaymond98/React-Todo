@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import TodoList from "./components/TodoComponents/TodoList";
 import TodoForm from "./components/TodoComponents/TodoForm"
-
+import "./components/TodoComponents/Todo.css"; 
 const todo = [
   {
     task: 'Organize Garage',
